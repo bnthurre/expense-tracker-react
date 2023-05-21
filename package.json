@@ -1,5 +1,6 @@
 {
   "name": "expense-tracker-app",
+  "author": "bushra Hurre <bushrahurre959@gmail.com>",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
